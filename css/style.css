@@ -977,14 +977,14 @@ body.lock {
   position: absolute;
   z-index: 5;
   top: -145px;
-  left: 50%;
+  left: 43%;
 }
 
 .map {
   position: absolute;
   z-index: 4;
   top: -117px;
-  left: 930px;
+  left: 50.5%;
 }
 
 .contacts__body {
