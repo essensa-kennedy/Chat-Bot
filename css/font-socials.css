@@ -1,0 +1,88 @@
+@font-face {
+	font-family: "font-socials";
+	src: url("../fonts/font-socials.eot?gtykvy");
+	src: url("../fonts/font-socials.eot?gtykvy#iefix") format("embedded-opentype"),
+		url("../fonts/font-socials.ttf?gtykvy") format("truetype"),
+		url("../fonts/font-socials.woff?gtykvy") format("woff"),
+		url("../fonts/font-socials.svg?gtykvy#font-socials") format("svg");
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="icon-"]::before,
+[class*=" icon-"]::before {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: "font-socials" !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-behance:before {
+	content: "\e900";
+}
+.icon-discord:before {
+	content: "\e901";
+}
+.icon-Facebook:before {
+	content: "\e902";
+}
+.icon-gmail:before {
+	content: "\e903";
+}
+.icon-icq:before {
+	content: "\e904";
+}
+.icon-Instagram:before {
+	content: "\e905";
+}
+.icon-linkedin:before {
+	content: "\e906";
+}
+.icon-mymir:before {
+	content: "\e907";
+}
+.icon-ok:before {
+	content: "\e908";
+}
+.icon-pinterest:before {
+	content: "\e909";
+}
+.icon-rss:before {
+	content: "\e90a";
+}
+.icon-skype:before {
+	content: "\e90b";
+}
+.icon-snapchat:before {
+	content: "\e90c";
+}
+.icon-telegramm:before {
+	content: "\e90d";
+}
+.icon-twitter:before {
+	content: "\e90e";
+}
+.icon-viber:before {
+	content: "\e90f";
+}
+.icon-vk:before {
+	content: "\e910";
+}
+.icon-watsapp:before {
+	content: "\e911";
+}
+.icon-yandex:before {
+	content: "\e912";
+}
+.icon-Youtube:before {
+	content: "\e913";
+}
