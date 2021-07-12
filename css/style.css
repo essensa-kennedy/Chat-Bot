@@ -219,7 +219,7 @@ body.lock {
 }
 
 .header__linkbutton span {
-  background: url("..//img/icons/Calling.svg") left no-repeat;
+  background: url("img/icons/Calling.svg") left no-repeat;
   padding: 5px 0px 5px 27px;
 }
 
@@ -296,7 +296,7 @@ body.lock {
 .mainscreen__noframebutton span {
   transition: 0.5s;
   padding-right: 30px;
-  background: url("/img/icons/Arrow - Right 3.svg") right center no-repeat;
+  background: url("img/icons/Arrow - Right 3.svg") right center no-repeat;
 }
 
 .mainscreen__noframebutton :hover span {
@@ -487,7 +487,7 @@ body.lock {
 
 .cases__link span {
   padding-right: 50px;
-  background: url("/img/icons/Right2.svg") right center no-repeat;
+  background: url("img/icons/Right2.svg") right center no-repeat;
 }
 
 .tarifs {
@@ -1158,7 +1158,7 @@ body.lock {
   right: 100px;
   border-radius: 50px;
   opacity: 30%;
-  background: #001424 url("/img/icons/Up.svg") center center no-repeat;
+  background: #001424 url("img/icons/Up.svg") center center no-repeat;
   z-index: 16;
   display: none;
   transition: all 0.8s ease 0s;
@@ -1215,7 +1215,7 @@ body.lock {
   right: 10px;
   width: 26px;
   height: 26px;
-  background-image: url("/img/icons/close.svg");
+  background-image: url("img/icons/close.svg");
 }
 
 .form__title {
@@ -1295,7 +1295,7 @@ body.lock {
   width: 24px;
   height: 24px;
   border-radius: 2px;
-  background: #0781ba url("/img/icons/Ok.svg") 0 0 no-repeat;
+  background: #0781ba url("img/icons/Ok.svg") 0 0 no-repeat;
   opacity: 0;
   transition: opacity 0.2s ease 0s;
 }
