@@ -219,7 +219,7 @@ body.lock {
 }
 
 .header__linkbutton span {
-  background: url("img/icons/Calling.svg") left no-repeat;
+  background: url("../img/icons/Calling.svg") left no-repeat;
   padding: 5px 0px 5px 27px;
 }
 
@@ -296,7 +296,7 @@ body.lock {
 .mainscreen__noframebutton span {
   transition: 0.5s;
   padding-right: 30px;
-  background: url("img/icons/Arrow - Right 3.svg") right center no-repeat;
+  background: url("../img/icons/Arrow - Right 3.svg") right center no-repeat;
 }
 
 .mainscreen__noframebutton :hover span {
