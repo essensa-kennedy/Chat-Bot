@@ -1082,6 +1082,7 @@ body.lock {
 
 .footer__leftside a {
   align-self: flex-start;
+  font-size: 18px;
   padding-bottom: 35px;
   color: #b8c0ca;
   transition: color 0.2s linear;
@@ -1102,6 +1103,7 @@ body.lock {
 }
 
 .footer__rightside a {
+  font-size: 18px;
   color: #b8c0ca;
   padding-bottom: 35px;
   transition: color 0.2s linear;
