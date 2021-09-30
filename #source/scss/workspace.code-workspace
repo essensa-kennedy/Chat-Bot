@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "Chat-Bot",
+			"path": "..\\..\\..\\Chat-bot_github\\Chat-Bot"
+		}
+	],
+	"settings": {}
+}
